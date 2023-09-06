@@ -3,7 +3,7 @@ import { Hero, About, Services, Portfolio, Testimonial, Collaboration, Footer } 
 
 function App() {
   return (
-    <main className='bg-[#fff]'>
+    <main className='bg-[#fff] px-[1.5rem]'>
       <Nav />
       <Hero />
       <About />
